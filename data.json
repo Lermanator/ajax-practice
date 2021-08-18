@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Python",
+    "description": "A beginners language"
+  },
+  {
+    "id": 1,
+    "name": "Java",
+    "description": "A step up from python"
+  },
+  {
+    "id": 2,
+    "name": "Javascript",
+    "description": "A marketing scam"
+  },
+  {
+    "id": 3,
+    "name": "Html",
+    "description": "No one loves html"
+  }
+]
