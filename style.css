@@ -1,0 +1,18 @@
+.lang-logo{
+  height: 200px;
+}
+
+.content-div{
+  background-color: #85DEFC;
+  text-align: center;
+  font-family: Helvetica, Arial;
+  border-radius: 50px;
+}
+
+body{
+  background-color: #5675C8;
+}
+
+h1:hover{
+  color: #676666;
+}
