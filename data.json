@@ -2,21 +2,25 @@
   {
     "id": 0,
     "name": "Python",
-    "description": "A beginners language"
+    "description": "A beginners language",
+    "image": "Python.png"
   },
   {
     "id": 1,
     "name": "Java",
-    "description": "A step up from python"
+    "description": "A step up from python",
+    "image": "Java.jpg"
   },
   {
     "id": 2,
     "name": "Javascript",
-    "description": "A marketing scam"
+    "description": "A marketing scam",
+    "image": "Javascript.png"
   },
   {
     "id": 3,
     "name": "Html",
-    "description": "No one loves html"
+    "description": "No one loves html",
+    "image": "html.png"
   }
 ]
